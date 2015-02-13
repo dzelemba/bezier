@@ -31,6 +31,7 @@ package com.piro.bezier;
  * @version $Id: ParseException.java 475685 2006-11-16 11:16:05Z cam $
  */
 public class ParseException extends RuntimeException {
+	private static final long serialVersionUID = 1L;
 
     /**
      * @serial The embedded exception if tunnelling, or null.

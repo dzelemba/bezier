@@ -5,8 +5,6 @@ import java.util.LinkedList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import com.badlogic.gdx.math.Vector2;
-
 public class BezierPath 
 {
     
